@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Prottoy Ahmed
+N:Ahmed;Prottoy;;;
+TITLE:Software Engineering Student
+ORG:Daffodil International University
+EMAIL;TYPE=WORK:siam70030@gmail.com
+TEL;TYPE=CELL:+8801755822872
+URL:https://github.com/ProttoyAhmed2003
+X-SOCIALPROFILE;TYPE=github:https://github.com/ProttoyAhmed2003
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/ProttoyAhmed2003
+END:VCARD
